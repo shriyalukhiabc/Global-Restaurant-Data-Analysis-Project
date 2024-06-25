@@ -48,7 +48,9 @@ Rating text: Textual description of the rating.
 
 Votes: Number of votes received for the rating.
 
+
 Analysis Objectives
+
 
 Descriptive Statistics: Summarize the dataset to understand general trends and distributions.
 
@@ -62,7 +64,9 @@ Rating Analysis: Explore ratings and reviews to understand customer satisfaction
 
 Delivery Analysis: Analyze the availability and impact of online delivery services.
 
+
 Tools and Libraries
+
 
 Python: Primary programming language for data analysis.
 
