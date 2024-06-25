@@ -8,7 +8,9 @@ The dataset used for this project contains 9551 entries and 21 columns.
 Below is a brief overview of the dataset columns:
 
 Restaurant ID: Unique identifier for each restaurant.
+
 Restaurant Name: Name of the restaurant.
+
 Country Code: Numeric code representing the country.
 City: City where the restaurant is located.
 Address: Full address of the restaurant.
